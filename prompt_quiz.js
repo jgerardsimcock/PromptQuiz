@@ -63,9 +63,9 @@
 
 // Question 6
 
-  var answer = prompt("What are young surfers called?");
+  var answer = prompt("What is the beach park name where Pipeline is located");
   
-  if (answer == "Groms") {
+  if (answer == "Ehukai") {
     alert("Right!");
     ++score;
   }
@@ -75,9 +75,9 @@
 
   // Question 7
 
-  var answer = prompt("What are young surfers called?");
+  var answer = prompt("What provides stickiness on the board");
   
-  if (answer == "Groms") {
+  if (answer == "Wax") {
     alert("Right!");
     ++score;
   }
