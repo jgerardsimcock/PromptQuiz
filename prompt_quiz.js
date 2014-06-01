@@ -87,5 +87,3 @@
 
   alert(score);
 })(); 
-
-// var question ["Where are biggest waves in Oahu?", "What is the freaky wave called near Portlock?", "What is the name of the beach park where Pipeline is located?", "What is a surfboard made of?", "What is the middle wodden spine of a surfboard called?", "What are young surfers called?"]
